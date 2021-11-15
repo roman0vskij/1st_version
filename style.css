@@ -1076,7 +1076,19 @@ p {
 @media (min-width: 320px) and (max-width: 480px) {
   .services-p1 {
     font-size: 20px;
-    line-height: auto;
+    top: 40px;
+  }
+
+  .services-p2 {
+    top: 50px;
+  }
+
+  .serv-items {
+    top: 90px;
+  }
+
+  .services button {
+    top: 120px;
   }
 }
 /*! 480 - 599 */
